@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to Jekyll222!"
 date:   2016-06-01 10:21:49
-categories: Jekyll Update diary
-tags: Jekyll Update
+categories: Jekyll Update1 
+tags: Jekyll Update1
 ---
 2222222222222
 
