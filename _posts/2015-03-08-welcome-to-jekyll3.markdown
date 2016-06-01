@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll222!"
 date:   2016-06-01 10:21:49
-categories: Jekyll Update
+categories: Jekyll Update diary
 tags: Jekyll Update
 ---
 2222222222222
