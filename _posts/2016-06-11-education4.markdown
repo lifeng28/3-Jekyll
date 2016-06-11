@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "数字化实验室"
-date:   2016-06-11 18:07:49
+date:   2016-06-11 17:07:49
 categories: 小说 译文
 tags: 教育译文
 ---
